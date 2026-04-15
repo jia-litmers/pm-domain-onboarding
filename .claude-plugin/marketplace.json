@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pm-domain-onboarding",
+  "version": "1.0.0",
+  "description": "외주 PM이 낯선 도메인에 빠르게 온보딩할 수 있도록 도와주는 스킬",
+  "owner": {
+    "name": "Jia Jang"
+  },
+  "plugins": [
+    {
+      "name": "pm-domain-onboarding",
+      "description": "도메인 deep-dive 스킬: 실제 업무 프로세스, 복잡도, blind spot을 쉬운 말로 분석",
+      "source": ".",
+      "category": "product-management"
+    }
+  ]
+}
