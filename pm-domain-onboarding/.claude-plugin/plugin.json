@@ -1,0 +1,16 @@
+{
+  "name": "pm-domain-onboarding",
+  "version": "1.0.0",
+  "description": "외주 PM이 낯선 도메인에 빠르게 온보딩할 수 있도록 도와주는 스킬. 도메인의 실제 업무 프로세스, 복잡도, blind spot을 쉬운 말로 분석해줌.",
+  "author": {
+    "name": "Jia Jang"
+  },
+  "keywords": [
+    "product-management",
+    "domain-onboarding",
+    "deep-dive",
+    "outsourced-pm",
+    "gap-analysis"
+  ],
+  "license": "MIT"
+}

@@ -10,7 +10,7 @@
     {
       "name": "pm-domain-onboarding",
       "description": "도메인 deep-dive 스킬: 실제 업무 프로세스, 복잡도, blind spot을 쉬운 말로 분석",
-      "source": ".",
+      "source": "./pm-domain-onboarding",
       "category": "product-management"
     }
   ]
